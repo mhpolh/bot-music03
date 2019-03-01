@@ -1,0 +1,6 @@
+token=NTUxMDMzNDg0NTM0MjE4NzUz.D1rGDg.59M0ILN1H4FUfyDiALo83GeuO1o
+owner=476958270175838222
+prefix= 3m
+game=
+stayinchannel=true
+songinstatus=false
