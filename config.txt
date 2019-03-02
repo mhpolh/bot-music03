@@ -1,4 +1,4 @@
-token=NTUxMDMzNDg0NTM0MjE4NzUz.D1wj6g.MaDiSnrqRjgN7PcRH0JvIFAMgrM
+token=NTUxMDMzNDg0NTM0MjE4NzUz.D1wkqA.kbOrBJhTEnBBh5WLAyc1Zc5Eles
 owner=423893025949876224
 prefix= DA
 game=
